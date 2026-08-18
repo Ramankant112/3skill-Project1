@@ -48,6 +48,9 @@ Some important columns include:
 
 ## 🧹 Data Cleaning
 
+## 📊 Dashboard
+
+![Retail Sales & Profit Analysis Dashboard](Dashboard_Img.png)
 The following cleaning activities were performed:
 
 * Removed duplicate records
